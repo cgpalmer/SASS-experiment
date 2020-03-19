@@ -1,0 +1,15 @@
+body {
+  background-color: rgba(38, 38, 255, 0.884);
+  margin: 0;
+}
+
+.jumbotron {
+  background-image: url("/images/test.JPG");
+  background-size: cover;
+  height: 100vh;
+}
+
+.jumbotron h3 {
+  margin: 0;
+}
+/*# sourceMappingURL=main.css.map */

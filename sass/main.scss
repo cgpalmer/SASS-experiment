@@ -1,3 +1,15 @@
+$bg-color: rgba(38, 38, 255, 0.884);
+
 body {
-    background-color: red;
+    background-color:$bg-color;
+    margin: 0;
+}
+
+.jumbotron {
+    background-image: url("/images/test.JPG");
+    background-size: cover;
+    height: 100vh;
+    h3 {
+        margin: 0;
+    }
 }
